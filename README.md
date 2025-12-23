@@ -1,4 +1,4 @@
-v# 🐍 Snake Game (Pygame)
+# 🐍 Snake Game (Pygame)
 
 A simple Snake Game built using **Python** and **Pygame**.  
 Control the snake with your arrow keys, eat the red food to earn points, and watch the food respawn at random positions every time you eat it.
